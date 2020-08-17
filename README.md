@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🏢 I'm currently working at **SBL Corp**
+- ⚙️ I use daily: `spring boot`, `angular`, `.java`, `JavaFX`, `.js`,`.ts`, `.html`, `.css`
+- 🌱 I’m currently learning Quarkus, Golang + Gin
+- 📫 Reach me: [twitter.com/mevkk](https://twitter.com/mevkk)
+
 <!--
 **vivekkrkarn/vivekkrkarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
